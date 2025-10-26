@@ -1,0 +1,7 @@
+{
+  "name": "Tuma-Africa Link Cargo",
+  "description": "A SaaS platform for African users to order products from Chinese e-commerce platforms, with comprehensive order tracking, multi-role dashboards, and in-app messaging.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
